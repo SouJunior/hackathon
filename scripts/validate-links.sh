@@ -23,8 +23,8 @@ echo -e "${YELLOW}[1/2] Validating file naming conventions...${NC}"
 echo ""
 
 for file in *.md; do
-    # Skip README.md and AGENTS.md (exceptions)
-    if [[ "$file" == "README.md" || "$file" == "AGENTS.md" ]]; then
+    # Skip README.md, AGENTS.md, and _sidebar.md (exceptions)
+    if [[ "$file" == "README.md" || "$file" == "AGENTS.md" || "$file" == "_sidebar.md" ]]; then
         continue
     fi
 
