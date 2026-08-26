@@ -6,7 +6,7 @@ Não estamos buscando apenas uma atualização de código. Queremos uma revoluç
 
 #### **🎯 A Missão da Sua Squad**
 
-A sua equipe terá o desafio de simular o ciclo de vida de um produto real. Como uma verdadeira *Squad* (Produto, UX/UI, Devs e QA), vocês precisarão planejar, desenhar, codificar e testar um site que seja a porta de entrada definitiva da comunidade.
+Como uma verdadeira *Squad* (Produto, UX/UI, Devs e QA), vocês precisarão planejar, desenhar, codificar e testar um site que seja a porta de entrada definitiva da comunidade.
 
 **O novo soujunior.tech precisa, obrigatoriamente:**
 
@@ -18,13 +18,11 @@ A sua equipe terá o desafio de simular o ciclo de vida de um produto real. Como
 
 * **Conectar com Precisão:** O site precisa ter chamadas para ação (CTAs) eficientes e links fluidos e bem posicionados, direcionando os usuários para o nosso sistema externo de cadastro.
 
+* **Destacar o Apoia.se:** O site deve apresentar de forma visível e atrativa a seção de apoio financeiro (Apoia.se), demonstrando que o projeto é mantido pela comunidade e incentivando novos apoiadores. Avaliaremos se essa seção tem o destaque necessário.
+
 #### **💡 Por que participar?**
 
-Aqui, o seu código tem impacto imediato. A equipe vencedora não apenas terá o orgulho de ver sua solução se tornar o **site oficial da SouJunior**, acessado por milhares de pessoas, mas também construirá um case de peso para o portfólio. É a chance perfeita de vivenciar a dinâmica de uma equipe multidisciplinar, aplicar boas práticas, lidar com prazos reais e, claro, ganhar visibilidade na comunidade.
+A equipe vencedora não apenas terá o orgulho de ver sua solução se tornar o **site oficial da SouJunior**, acessado por dezenas de pessoas, mas também construirá um case de peso para o portfólio. É a chance perfeita de vivenciar a dinâmica de uma equipe multidisciplinar, aplicar boas práticas, lidar com prazos reais e, claro, ganhar visibilidade na comunidade.
 
 Junte seu time, defina sua stack, pense fora da caixa e venha deixar a sua marca na história da SouJunior\!
-
-**O cronômetro começa agora. Estão prontos?**
-
-**Como você prefere que os participantes façam a inscrição das suas equipes?** Podemos criar um formulário simples ou concentrar a formação das squads diretamente em canais específicos do Discord.
 

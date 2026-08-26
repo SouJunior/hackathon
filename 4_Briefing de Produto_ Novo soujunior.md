@@ -26,6 +26,7 @@ A excelência técnica só tem valor se resolver uma dor real. Recomendamos fort
 | **Como Funciona (O Ecossistema)** | Explicação visual e estruturada de como o projeto opera (Discord, repositórios open-source, mentorias, apoio mútuo). |
 | **Mural de Dados e Impacto** | Área dedicada a mostrar a força da comunidade em números reais e atualizáveis (ex: pessoas apoiadas, repositórios ativos, etc.). |
 | **Integração de Links (CTAs)** | Navegação limpa e clara direcionando o fluxo para fora da landing page no momento certo (Sistema Externo de Cadastro e Redes Sociais). |
+| **Destaque para Apoia.se** | Seção visível e atrativa apresentando o apoio financeiro da comunidade, incentivando novos apoiadores e destacando que o projeto é mantido por doações. |
 
 ## **5\. Mapa Mental Sugerido (Arquitetura da Informação)**
 
@@ -42,3 +43,4 @@ As equipes têm liberdade criativa, mas sugerimos a seguinte organização menta
 `- Cadastro/Login: (Link do Sistema Externo)`  
 `- Open-Source: github.com/SouJunior`  
 `- Comunidade: Link de convite do Discord Oficial`  
+`- Apoia.se: https://apoia.se/soujunior`

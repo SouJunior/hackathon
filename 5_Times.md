@@ -1,6 +1,8 @@
 Ter todas essas disciplinas disponíveis é o cenário dos sonhos para um hackathon\! Vocês estão proporcionando a chance de simular uma *Squad* real de produto, o que enriquece imensamente a experiência prática da comunidade, especialmente para quem está buscando a primeira oportunidade.
 
-Para um ciclo de 15 dias, recomendo formar times de **5 pessoas**. Menos que isso sobrecarrega os participantes, e mais do que isso gera gargalos de comunicação e atrasa as tomadas de decisão.
+Para um ciclo de 15 dias, recomendo formar times de **até 10 pessoas**. Menos que isso sobrecarrega os participantes, e mais do que isso gera gargalos de comunicação e atrasa as tomadas de decisão.
+
+**Importante:** Mentores (plenos e seniores) também podem participar dos times, desde que estejam devidamente cadastrados no formulário de inscrição. Eles atuarão como guias técnicos, mas contam como integrantes da equipe — o limite de 10 pessoas vale para todos.
 
 Aqui está a sugestão do formato ideal de uma Squad para esse desafio:
 

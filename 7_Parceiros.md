@@ -25,7 +25,7 @@ Apoiar a comunidade não é apenas uma ação de responsabilidade social, é um 
 Estruturamos canais diretos para facilitar o apoio, seja você uma pessoa física querendo doar um valor simbólico ou uma empresa estruturando uma parceria de longo prazo:
 
 \- Chave PIX (Doações Diretas): \[Inserir Chave / E-mail\]  
-\- Plataforma de Financiamento Coletivo: \[Inserir Link do Apoia.se / Open Collective\]  
+\- Plataforma de Financiamento Coletivo: https://apoia.se/soujunior  
 \- Contato para Parcerias B2B / Infraestrutura: parcerias@soujunior.tech
 
 ## **5\. Próximos Passos**
