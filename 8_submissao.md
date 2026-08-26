@@ -33,7 +33,7 @@ Para que sua equipe seja considerada na avaliação, **todos** os itens abaixo d
 
 ### 4. Classificação e Apresentação ao Vivo
 
-- As equipes serão avaliadas conforme os critérios do [Regulamento Oficial](3_Regulamento_Oficial_Hackathon_SouJunior.md).
+- As equipes serão avaliadas conforme os critérios do [Regulamento Oficial](3_regulamento_oficial_hackathon_soujunior.md).
 - **Os 3 primeiros colocados** terão a oportunidade de apresentar seus projetos ao vivo em uma **live oficial da SouJunior**.
 - A live servirá como vitrine para a comunidade e para potenciais parceiros e patrocinadores.
 

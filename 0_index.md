@@ -9,14 +9,14 @@ Data: 11/set - 25/set
 
 Siga esta sequência para entender o hackathon do início ao fim:
 
-1. **[Inscrição](1_Inscricao.md)** — Como participar, doação no Apoia.se e formulário de cadastro
-2. **[Desafio](2_Desafio_Site_SouJunior.tech.md)** — O que é o hackathon e qual é a missão
-3. **[Regulamento](3_Regulamento_Oficial_Hackathon_SouJunior.md)** — Regras, código de conduta e critérios de avaliação
-4. **[Briefing de Produto](4_Briefing_de_Produto_Novo_soujunior.md)** — PRD com requisitos obrigatórios do MVP
-5. **[Times](5_Times.md)** — Como formar sua equipe
-6. **[Cronograma](6_Cronograma_Sugerido_15_Dias.md)** — Plano de execução em sprints
-7. **[Parceiros](7_Parceiros.md)** — Propostas de parceria e patrocínio
-8. **[Submissão](8_Submissao.md)** — Como entregar seu projeto
+1. **[Inscrição](1_inscricao.md)** — Como participar, doação no Apoia.se e formulário de cadastro
+2. **[Desafio](2_desafio_site_soujunior.tech.md)** — O que é o hackathon e qual é a missão
+3. **[Regulamento](3_regulamento_oficial_hackathon_soujunior.md)** — Regras, código de conduta e critérios de avaliação
+4. **[Briefing de Produto](4_briefing_de_produto_novo_soujunior.md)** — PRD com requisitos obrigatórios do MVP
+5. **[Times](5_times.md)** — Como formar sua equipe
+6. **[Cronograma](6_cronograma_sugerido_15_dias.md)** — Plano de execução em sprints
+7. **[Parceiros](7_parceiros.md)** — Propostas de parceria e patrocínio
+8. **[Submissão](8_submissao.md)** — Como entregar seu projeto
 
 ---
 
