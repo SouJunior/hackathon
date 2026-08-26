@@ -1,4 +1,3 @@
-- [Inicio](/)
 - [Indice](0_index.md)
 - [Inscricao](1_inscricao.md)
 - [Desafio](2_desafio_site_soujunior.tech.md)
