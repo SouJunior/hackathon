@@ -1,0 +1,193 @@
+/* Hackathon SouJunior - Custom Theme Colors */
+/* Based on official SouJunior brand colors */
+
+:root {
+  /* SouJunior Brand Colors */
+  --theme-color: #00205F;
+  --theme-color-light: #003872;
+  --theme-color-lighter: #006AD7;
+  --theme-color-accent: #95C6FF;
+  --theme-color-hover: #0C4987;
+
+  /* Docsify Theme Variables */
+  --sidebar-width: 280px;
+  --sidebar-nav-link-color: #00205F;
+  --sidebar-nav-link-color--active: #00205F;
+  --sidebar-nav-link-border-color--active: #006AD7;
+  --sidebar-background: #f8f9fa;
+
+  /* Links */
+  --link-color: #003872;
+  --link-color--hover: #0C4987;
+
+  /* Header */
+  --header-height: 60px;
+
+  /* Content */
+  --content-max-width: 800px;
+  --base-font-size: 16px;
+  --base-line-height: 1.6;
+}
+
+/* Sidebar */
+.sidebar {
+  border-right: 3px solid #00205F;
+}
+
+.sidebar-nav li a {
+  color: #00205F;
+  transition: all 0.2s ease;
+}
+
+.sidebar-nav li a:hover {
+  color: #0C4987;
+  background-color: rgba(0, 32, 95, 0.05);
+}
+
+.sidebar-nav li.active > a {
+  color: #00205F;
+  font-weight: 600;
+  border-right: 3px solid #006AD7;
+}
+
+/* Header */
+.header {
+  background-color: #00205F;
+}
+
+.header h1 {
+  color: #ffffff;
+}
+
+/* Content Links */
+.markdown-section a {
+  color: #003872;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.markdown-section a:hover {
+  color: #0C4987;
+  border-bottom: 1px solid #006AD7;
+}
+
+/* GitHub Corner */
+.github-corner svg {
+  fill: #00205F;
+}
+
+.github-corner a:hover .octo-arm {
+  stroke: #006AD7;
+}
+
+/* Code Blocks */
+.markdown-section code {
+  background-color: rgba(0, 32, 95, 0.08);
+  color: #00205F;
+}
+
+/* Tables */
+.markdown-section table tr {
+  background-color: #f8f9fa;
+}
+
+.markdown-section table tr:nth-child(2n) {
+  background-color: #ffffff;
+}
+
+.markdown-section table th {
+  background-color: #00205F;
+  color: #ffffff;
+}
+
+/* Search */
+.sidebar .search {
+  border-bottom: 2px solid #00205F;
+}
+
+.sidebar .search input {
+  border-color: #00205F;
+}
+
+.sidebar .search input:focus {
+  border-color: #006AD7;
+  box-shadow: 0 0 0 2px rgba(0, 106, 215, 0.2);
+}
+
+/* Buttons */
+button {
+  background-color: #00205F;
+  color: #ffffff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  background-color: #0C4987;
+}
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --sidebar-background: #1a1a2e;
+    --sidebar-nav-link-color: #95C6FF;
+    --sidebar-nav-link-color--active: #ffffff;
+  }
+
+  .sidebar {
+    border-right: 3px solid #006AD7;
+  }
+
+  .sidebar-nav li a {
+    color: #95C6FF;
+  }
+
+  .sidebar-nav li a:hover {
+    color: #ffffff;
+    background-color: rgba(0, 106, 215, 0.1);
+  }
+
+  .sidebar-nav li.active > a {
+    color: #ffffff;
+    border-right: 3px solid #95C6FF;
+  }
+
+  .header {
+    background-color: #00205F;
+  }
+
+  .markdown-section a {
+    color: #95C6FF;
+  }
+
+  .markdown-section a:hover {
+    color: #ffffff;
+    border-bottom: 1px solid #95C6FF;
+  }
+
+  .github-corner svg {
+    fill: #006AD7;
+  }
+
+  .markdown-section code {
+    background-color: rgba(149, 198, 255, 0.1);
+    color: #95C6FF;
+  }
+
+  .markdown-section table tr {
+    background-color: #1a1a2e;
+  }
+
+  .markdown-section table tr:nth-child(2n) {
+    background-color: #16213e;
+  }
+
+  .markdown-section table th {
+    background-color: #00205F;
+    color: #ffffff;
+  }
+}
