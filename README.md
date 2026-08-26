@@ -3,7 +3,8 @@
 **Redesenhando o Nosso Futuro** — Reformulação do site soujunior.tech
 
 [![Apoia.se](https://img.shields.io/badge/Apoie-Apoia.se-blue)](https://apoia.se/soujunior)
-[![Discord](https://img.shields.io/badge/Discord-Comunidade-7289da)](https://discord.gg/soujunior)
+[![Discord](https://img.shields.io/badge/Discord-Comunidade-7289da)](https://discord.gg/FkBcf3vdQZ)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Avisos-25D366)](https://chat.whatsapp.com/JJzCMlqMKlw1YOhOk7QB3W)
 [![GitHub](https://img.shields.io/badge/GitHub-SouJunior-181717)](https://github.com/SouJunior)
 
 ---
@@ -22,8 +23,8 @@ A **SouJunior** está reconstruindo seu site principal do zero e convidou toda a
 
 1. **Torne-se doador** no [Apoia.se](https://apoia.se/soujunior) (mínimo R$ 2,00)
 2. **Monte sua equipe** de 2 a 10 pessoas
-3. **Cadastre seu time** no [Google Form](https://forms.google.com/SEU_FORM_AQUI)
-4. **Entre no grupo do WhatsApp** para receber notificações
+3. **Cadastre seu time** no [Formulário de Inscrição](https://forms.gle/omWCKViU1PC71pn39)
+4. **Entre no grupo do WhatsApp** (apenas avisos) e no **Discord** (para tirar dúvidas)
 
 ---
 
@@ -45,16 +46,18 @@ A **SouJunior** está reconstruindo seu site principal do zero e convidou toda a
 
 ## Links Importantes
 
+- [Formulário de Inscrição](https://forms.gle/omWCKViU1PC71pn39)
 - [Apoia.se da SouJunior](https://apoia.se/soujunior)
 - [Site SouJunior](https://soujunior.tech)
 - [GitHub SouJunior](https://github.com/SouJunior)
-- [Discord Oficial](https://discord.gg/soujunior)
+- [Discord Oficial (Dúvidas e Comunidade)](https://discord.gg/FkBcf3vdQZ)
+- [Grupo do WhatsApp (Apenas Avisos)](https://chat.whatsapp.com/JJzCMlqMKlw1YOhOk7QB3W)
 
 ---
 
 ## Suporte
 
-Dúvidas? Entre no grupo do WhatsApp ou acesse o nosso [Discord](https://discord.gg/soujunior).
+Para tirar dúvidas e interagir com a comunidade, acesse o nosso [Discord](https://discord.gg/FkBcf3vdQZ). Para receber avisos e comunicados oficiais, entre no [Grupo do WhatsApp](https://chat.whatsapp.com/JJzCMlqMKlw1YOhOk7QB3W).
 
 ---
 

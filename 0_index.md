@@ -25,4 +25,5 @@ Siga esta sequência para entender o hackathon do início ao fim:
 - [Apoia.se da SouJunior](https://apoia.se/soujunior)
 - [Sistema Externo de Cadastro](https://soujunior.tech)
 - [GitHub SouJunior](https://github.com/SouJunior)
-- [Discord Oficial](https://discord.gg/soujunior)
+- [Discord Oficial (Dúvidas e Comunidade)](https://discord.gg/FkBcf3vdQZ)
+- [Grupo no WhatsApp (Apenas Avisos)](https://chat.whatsapp.com/JJzCMlqMKlw1YOhOk7QB3W)

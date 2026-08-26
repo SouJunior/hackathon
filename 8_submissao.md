@@ -27,7 +27,7 @@ Para que sua equipe seja considerada na avaliação, **todos** os itens abaixo d
 
 - Todas as entregas (repositório + vídeo) devem ser feitas até a **data final do hackathon**.
 - **Nenhum commit pode ser feito no repositório após a data e hora de encerramento.** Commits posteriores serão desconsiderados na avaliação.
-- A data e horário de corte serão informados oficialmente no grupo do WhatsApp.
+- A data e horário de corte serão informados oficialmente no grupo de avisos do WhatsApp.
 
 ---
 
@@ -46,9 +46,9 @@ Antes de enviar, confira:
 - [ ] Repositório público no GitHub com licença open source
 - [ ] README.md completo com instruções de execução
 - [ ] Vídeo de apresentação (máximo 5 minutos) gravado e link disponível
-- [ ] Time devidamente cadastrado no [Google Form](https://forms.google.com/SEU_FORM_AQUI)
+- [ ] Time devidamente cadastrado no [Formulário de Inscrição](https://forms.gle/omWCKViU1PC71pn39)
 - [ ] Todos os integrantes são doadores no [Apoia.se](https://apoia.se/soujunior)
 
 ---
 
-*Dúvidas? Entre no grupo do WhatsApp e fale com a organização.*
+*Dúvidas? Tire suas dúvidas no [Discord](https://discord.gg/FkBcf3vdQZ) e acompanhe as atualizações no [WhatsApp (Apenas Avisos)](https://chat.whatsapp.com/JJzCMlqMKlw1YOhOk7QB3W).*

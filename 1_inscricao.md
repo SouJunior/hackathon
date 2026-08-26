@@ -12,7 +12,7 @@ Para participar, você precisa ser doador(a) da SouJunior no Apoia.se com valor 
 
 ### 2. Monte seu Time
 
-É **obrigatório** formar uma equipe de **2 a 10 pessoas** para participar. Não é permitido participar sozinho. Se você ainda não tem time, entre no grupo do WhatsApp para encontrar colegas.
+É **obrigatório** formar uma equipe de **2 a 10 pessoas** para participar. Não é permitido participar sozinho. Se você ainda não tem time, acesse os canais do [Discord da Comunidade SouJunior](https://discord.gg/FkBcf3vdQZ) para encontrar colegas.
 
 ---
 
@@ -20,15 +20,19 @@ Para participar, você precisa ser doador(a) da SouJunior no Apoia.se com valor 
 
 Preencha o formulário abaixo com os dados de **todos** os integrantes da sua equipe (incluindo mentores, se houver).
 
-**Link do Formulário:** [Google Form - Cadastro de Equipe](https://forms.google.com/SEU_FORM_AQUI)
+**Link do Formulário:** [Formulário de Cadastro de Equipe](https://forms.gle/omWCKViU1PC71pn39)
 
 ---
 
-### 4. Entre no Grupo do WhatsApp
+### 4. Entre nos Canais Oficiais de Comunicação
 
-Receba notificações oficiais, tire dúvidas e acompanhe o evento.
+A comunicação do evento é separada por finalidade para facilitar a interação:
 
-**Link do Grupo:** [Entrar no WhatsApp](https://chat.whatsapp.com/SEU_LINK_AQUI)
+- **WhatsApp (Apenas Avisos):** Canal exclusivo para comunicados e notificações oficiais sobre o evento.  
+  **Link do Grupo:** [Entrar no Grupo de Avisos no WhatsApp](https://chat.whatsapp.com/JJzCMlqMKlw1YOhOk7QB3W)
+
+- **Discord (Dúvidas e Discussões):** Servidor oficial da comunidade para tirar dúvidas, interagir e organizar times em canais dedicados por assunto.  
+  **Link do Discord:** [Entrar no Discord da SouJunior](https://discord.gg/FkBcf3vdQZ)
 
 ---
 
@@ -54,4 +58,4 @@ Sim. Todos os participantes, incluindo mentores, devem ser doadores no Apoia.se 
 
 ---
 
-*Dúvidas? Entre no grupo do WhatsApp e fale com a organização.*
+*Dúvidas? Acesse o nosso [Discord](https://discord.gg/FkBcf3vdQZ) para tirar dúvidas. Para acompanhar avisos oficiais, entre no [Grupo de Avisos no WhatsApp](https://chat.whatsapp.com/JJzCMlqMKlw1YOhOk7QB3W).*

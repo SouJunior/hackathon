@@ -8,7 +8,7 @@ Dividir os 15 dias em "sprints" menores ajuda as equipes a não deixarem tudo pa
 
   * **Kick-off:** Uma live curta explicando as regras, o objetivo do novo site e os critérios de avaliação.
 
-  * **Formação de Equipes:** Utilize canais no Discord para que desenvolvedores (front-end, back-end), designers e QAs possam se encontrar e formar grupos (ideal de 3 a 10 pessoas).
+  * **Formação de Equipes:** Utilize os canais no [Discord](https://discord.gg/FkBcf3vdQZ) para que desenvolvedores (front-end, back-end), designers e QAs possam se encontrar e formar grupos (ideal de 3 a 10 pessoas).
 
   * **Definição de Escopo:** As equipes devem entregar, até o final do 3º dia, um documento simples com a proposta do que vão construir (wireframes básicos e stack escolhida).
 
@@ -18,7 +18,7 @@ Dividir os 15 dias em "sprints" menores ajuda as equipes a não deixarem tudo pa
 
   * **Check-ins de Qualidade:** Sugira que as equipes foquem em boas práticas logo no início, como a configuração de repositórios estruturados e a redução do *Time-to-First-Commit* para os membros juniores da equipe se integrarem rapidamente.
 
-  * **Plantão de Dúvidas:** Separe 1 ou 2 horas no meio desse período para que mentores possam ajudar as equipes a destravar problemas técnicos.
+  * **Plantão de Dúvidas:** Separe 1 ou 2 horas no meio desse período nos canais do [Discord](https://discord.gg/FkBcf3vdQZ) para que mentores possam ajudar as equipes a destravar problemas técnicos.
 
 * **Dias 11 a 13: Refatoração e Preparação para Entrega**
 

@@ -42,5 +42,6 @@ As equipes têm liberdade criativa, mas sugerimos a seguinte organização menta
 `[Mapeamento de Destinos Externos Obrigatórios]`  
 `- Cadastro/Login: (Link do Sistema Externo)`  
 `- Open-Source: github.com/SouJunior`  
-`- Comunidade: Link de convite do Discord Oficial`  
+`- Comunidade (Dúvidas e Suporte): Discord Oficial (https://discord.gg/FkBcf3vdQZ)`  
+`- Grupo de Avisos: WhatsApp Oficial (https://chat.whatsapp.com/JJzCMlqMKlw1YOhOk7QB3W)`  
 `- Apoia.se: https://apoia.se/soujunior`

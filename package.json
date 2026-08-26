@@ -1,0 +1,14 @@
+{
+  "name": "hacktoon",
+  "version": "1.0.0",
+  "description": "Documentação do Hackathon SouJunior",
+  "main": "index.html",
+  "scripts": {
+    "start": "docsify serve . --port 3001",
+    "dev": "docsify serve . --port 3001",
+    "validate": "./scripts/validate-links.sh"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
