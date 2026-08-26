@@ -1,4 +1,4 @@
-# Hackathon SouJunior 2024
+# Hackathon SouJunior 2026
 
 **Redesenhando o Nosso Futuro** — Reformulação do site soujunior.tech
 
