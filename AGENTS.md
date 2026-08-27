@@ -12,7 +12,7 @@ This is a **documentation-only** repository for the SouJunior Hackathon event (S
 | `AGENTS.md` | Agent instructions (keep uppercase) |
 | `0_index.md` | Documentation hub with reading order |
 | `1_inscricao.md` | Registration - WhatsApp and Google Form |
-| `2_desafio_site_soujunior.tech.md` | Main challenge description |
+| `2_desafio_site_soujunior.tech.md` | Main challenge description (Apoia.se Landing Page) |
 | `3_regulamento_oficial_hackathon_soujunior.md` | Rules and evaluation criteria |
 | `4_briefing_de_produto_novo_soujunior.md` | Product requirements (PRD) |
 | `5_times.md` | Team formation guidelines |

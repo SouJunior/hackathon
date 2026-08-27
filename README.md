@@ -1,6 +1,6 @@
 # Hackathon SouJunior 2026
 
-**Redesenhando o Nosso Futuro** — Reformulação do site soujunior.tech
+**Redesenhando o Nosso Futuro** — Landing Page Focada no Apoia.se
 
 [![Apoia.se](https://img.shields.io/badge/Apoie-Apoia.se-blue)](https://apoia.se/soujunior)
 [![Discord](https://img.shields.io/badge/Discord-Comunidade-7289da)](https://discord.gg/FkBcf3vdQZ)
@@ -11,7 +11,7 @@
 
 ## Sobre o Evento
 
-A **SouJunior** está reconstruindo seu site principal do zero e convidou toda a comunidade para participar deste desafio. Em 15 dias, equipes multidisciplinares vão planejar, desenhar, codificar e testar o novo **soujunior.tech**.
+A **SouJunior** é mantida pelo apoio da nossa comunidade, e desafiou todas as equipes a criarem uma **Landing Page altamente criativa e de alto impacto focada no Apoia.se** (https://apoia.se/soujunior). Em 15 dias, equipes multidisciplinares vão planejar, desenhar, codificar e testar uma página inovadora para engajar novos apoiadores e demonstrar o impacto do nosso projeto.
 
 **Data:** 11 de setembro a 25 de setembro  
 **Limite por time:** até 10 pessoas  

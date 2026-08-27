@@ -1,28 +1,28 @@
-### **🚀 Desafio Hackathon SouJunior: Redesenhando o Nosso Futuro**
+### **🚀 Desafio Hackathon SouJunior: Landing Page Focada no Apoia.se**
 
-A **SouJunior** não para de crescer, e a nossa vitrine principal precisa acompanhar esse ritmo. Por isso, estamos lançando um desafio oficial para a nossa comunidade: **reconstruir o site soujunior.tech do zero em 15 dias.**
+A **SouJunior** é mantida com o apoio e o engajamento da própria comunidade. Para fortalecer nossa sustentabilidade e continuar oferecendo mentorias gratuitas, projetos open-source e oportunidades para profissionais juniores, estamos lançando o desafio oficial: **criar uma Landing Page incrível, criativa e altamente persuasiva focada no Apoia.se da SouJunior (https://apoia.se/soujunior).**
 
-Não estamos buscando apenas uma atualização de código. Queremos uma revolução visual. O objetivo deste Hackathon é transformar a nossa página principal em uma experiência criativa, moderna e que traduza perfeitamente a energia e o impacto do nosso projeto.
+Não estamos buscando um formulário simples de doação. Queremos uma experiência visual e narrativa marcante! O objetivo deste Hackathon é transformar a jornada do apoiador em uma página envolvente, moderna e transparente, capaz de inspirar visitantes a se tornarem doadores do movimento.
 
 #### **🎯 A Missão da Sua Squad**
 
-Como uma verdadeira *Squad* (Produto, UX/UI, Devs e QA), vocês precisarão planejar, desenhar, codificar e testar um site que seja a porta de entrada definitiva da comunidade.
+Como uma verdadeira *Squad* (Produto, UX/UI, Devs e QA), vocês precisarão planejar, desenhar, codificar e testar uma Landing Page completa focada na captação de apoiadores.
 
-**O novo soujunior.tech precisa, obrigatoriamente:**
+**A nova Landing Page do Apoia.se precisa, obrigatoriamente:**
 
-* **Ter um Visual Criativo e Inovador:** Queremos sair do padrão. O design deve ser moderno, acolhedor e profissional, refletindo a identidade de quem respira tecnologia e inovação.
+* **Usar Alta Criatividade e Inovação Visual:** Queremos sair do convencional! Soluções com visual marcante, storytelling inspirador, elementos interativos ou estratégias de engajamento terão destaque.
 
-* **Contar a Nossa História (Como Funciona):** A arquitetura da informação deve explicar de forma clara e direta o que é a SouJunior e como o nosso ecossistema funciona.
+* **Explicar a Causa e o Propósito do Apoio:** A arquitetura da informação deve deixar cristalino o valor de apoiar a SouJunior (a partir de R$ 2,00), mostrando como a doação sustenta iniciativas gratuitas.
 
-* **Dar Palco aos Nossos Dados:** Precisamos de uma seção dedicada a mostrar os dados e o impacto real do projeto. Números de comunidade, conquistas e a força da nossa rede.
+* **Dar Palco aos Dados de Impacto e Transparência:** Apresentar de forma atrativa os dados e métricas reais da comunidade (pessoas impactadas, repositórios mantidos, voluntários ativos) e como os recursos são reinvestidos.
 
-* **Conectar com Precisão:** O site precisa ter chamadas para ação (CTAs) eficientes e links fluidos e bem posicionados, direcionando os usuários para o nosso sistema externo de cadastro.
+* **CTAs Diretos e Eficientes para o Apoia.se:** Posicionar chamadas para ação (CTAs) bem visíveis, estratégicas e fluidas direcionando para a campanha oficial no [Apoia.se da SouJunior](https://apoia.se/soujunior).
 
-* **Destacar o Apoia.se:** O site deve apresentar de forma visível e atrativa a seção de apoio financeiro (Apoia.se), demonstrando que o projeto é mantido pela comunidade e incentivando novos apoiadores. Avaliaremos se essa seção tem o destaque necessário.
+* **Integração com o Ecossistema:** Manter acesso fácil aos canais oficiais da comunidade — [Discord (Dúvidas/Comunidade)](https://discord.gg/FkBcf3vdQZ), [WhatsApp (Grupo de Avisos)](https://chat.whatsapp.com/JJzCMlqMKlw1YOhOk7QB3W) e GitHub.
 
 #### **💡 Por que participar?**
 
-A equipe vencedora não apenas terá o orgulho de ver sua solução se tornar o **site oficial da SouJunior**, acessado por dezenas de pessoas, mas também construirá um case de peso para o portfólio. É a chance perfeita de vivenciar a dinâmica de uma equipe multidisciplinar, aplicar boas práticas, lidar com prazos reais e, claro, ganhar visibilidade na comunidade.
+A equipe vencedora terá sua solução adotada ou utilizada como referência para a campanha oficial da **SouJunior no Apoia.se**, impactando diretamente o crescimento do movimento e criando um case real de alto valor para o portfólio. É a oportunidade perfeita de vivenciar a rotina de uma Squad, aplicar boas práticas de desenvolvimento e produto, lidar com prazos reais e demonstrar criatividade técnica.
 
-Junte seu time, defina sua stack, pense fora da caixa e venha deixar a sua marca na história da SouJunior\!
+Junte seu time, defina sua stack, pense fora da caixa e venha impulsionar a sustentabilidade da SouJunior!
 

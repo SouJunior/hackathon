@@ -1,10 +1,10 @@
 # **Proposta de Parceria e Apoio Institucional \- SouJunior**
 
-A SouJunior é uma comunidade de tecnologia focada em impulsionar o talento de profissionais no início de suas carreiras. Com o nosso Hackathon de 15 dias para a reformulação do portal soujunior.tech, estamos abrindo oportunidades para que empresas inovadoras e profissionais seniores se juntem a nós nessa missão.
+A SouJunior é uma comunidade de tecnologia focada em impulsionar o talento de profissionais no início de suas carreiras. Com o nosso Hackathon de 15 dias para a criação da Landing Page do Apoia.se, estamos abrindo oportunidades para que empresas inovadoras e profissionais seniores se juntem a nós nessa missão.
 
 ## **1\. Por Que Apoiar a SouJunior?**
 
-Apoiar a comunidade não é apenas uma ação de responsabilidade social, é um investimento direto no futuro do ecossistema de software. Ao se tornar um parceiro, sua empresa ganha acesso antecipado a desenvolvedores engajados, exposição direta da marca em nossos canais (servidor do Discord, repositórios da organização no GitHub e no novo site) e reforça seu compromisso com a formação prática de novos talentos.
+Apoiar a comunidade não é apenas uma ação de responsabilidade social, é um investimento direto no futuro do ecossistema de software. Ao se tornar um parceiro, sua empresa ganha acesso antecipado a desenvolvedores engajados, exposição direta da marca em nossos canais (servidor do Discord, repositórios da organização no GitHub e na nova Landing Page do Apoia.se) e reforça seu compromisso com a formação prática de novos talentos.
 
 ## **2\. Como Sua Empresa (ou Você) Pode Ajudar?**
 
@@ -17,8 +17,8 @@ Apoiar a comunidade não é apenas uma ação de responsabilidade social, é um 
 | Cota de Apoio | Formato da Contribuição (Exemplos) | Contrapartidas e Retorno Institucional   |
 | :---- | :---- | :---- |
 | **Apoiador (Start)** | Livros, assinaturas de plataformas de ensino ou pequenos prêmios para sorteio. | Logo na seção de apoiadores do repositório no GitHub e menção de agradecimento nos avisos do Discord. |
-| **Parceiro Prata** | Licenças de software anuais, créditos de infraestrutura Cloud/Serverless ou premiação financeira para o 2º e 3º lugar do Hackathon. | Logo em destaque na seção "Parceiros" do novo site soujunior.tech, post dedicado no LinkedIn e cargo exclusivo no Discord. |
-| **Patrocinador Ouro** | Premiação principal do evento (equipamentos, aportes maiores) \+ disponibilização de mentores corporativos. | Destaque máximo e isolado no site, acesso prioritário para divulgar *job descriptions* diretamente para a comunidade e cadeira cativa na banca avaliadora. |
+| **Parceiro Prata** | Licenças de software anuais, créditos de infraestrutura Cloud/Serverless ou premiação financeira para o 2º e 3º lugar do Hackathon. | Logo em destaque na seção "Parceiros" da nova Landing Page do Apoia.se, post dedicado no LinkedIn e cargo exclusivo no Discord. |
+| **Patrocinador Ouro** | Premiação principal do evento (equipamentos, aportes maiores) \+ disponibilização de mentores corporativos. | Destaque máximo e isolado na página, acesso prioritário para divulgar *job descriptions* diretamente para a comunidade e cadeira cativa na banca avaliadora. |
 
 ## **4\. Como Doar e Entrar em Contato**
 

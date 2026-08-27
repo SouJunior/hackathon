@@ -1,6 +1,6 @@
 # **Regulamento Oficial: Hackathon SouJunior**
 
-Este documento estabelece as regras de participação, conduta e avaliação para o Hackathon de reformulação do site soujunior.tech. Nosso compromisso primário é com a justiça, a transparência e o aprendizado contínuo, garantindo um ambiente colaborativo para todos os níveis de experiência.
+Este documento estabelece as regras de participação, conduta e avaliação para o Hackathon de criação da Landing Page focada no Apoia.se da SouJunior. Nosso compromisso primário é com a justiça, a transparência e o aprendizado contínuo, garantindo um ambiente colaborativo para todos os níveis de experiência.
 
 ## **1\. Regras de Participação e Formação de Equipes**
 
@@ -23,7 +23,7 @@ A avaliação será baseada em critérios técnicos e de produto, garantindo que
 
 | Critério | Peso | Descrição e Indicadores   |
 | :---- | :---- | :---- |
-| **Experiência de Usuário (UX/UI) e Fidelidade ao Propósito** | 30% | O visual é criativo, moderno e foge do padrão? A arquitetura da informação deixa claro como o projeto funciona e dá o devido destaque aos dados da comunidade? Os links para cadastro no sistema externo estão fluidos e bem posicionados? |
+| **Experiência de Usuário (UX/UI), Criatividade e Fidelidade ao Propósito** | 30% | O visual é altamente criativo, moderno e envolvente? A arquitetura da informação engaja o visitante, demonstra transparência no uso das doações e destaca o valor de apoiar a SouJunior no Apoia.se? As chamadas para ação (CTAs) estão fluidas e bem posicionadas? |
 | **Qualidade de Software e Arquitetura** | 30% | O código é sustentável, limpo e estruturado para fácil manutenção futura? A equipe utilizou checklists de qualidade de software desde o início? Pontos extras para arquiteturas bem documentadas que facilitem o onboarding de novos contribuidores posteriormente. |
 | **Acessibilidade e Responsividade** | 20% | O site funciona com excelência em diferentes tamanhos de tela (mobile-first)? A equipe aplicou boas práticas de acessibilidade web (contraste, navegação sem mouse, hierarquia de tags)? |
 | **Dinâmica de Equipe e Integração** | 20% | Avaliação do histórico do repositório. Observaremos métricas de produtividade saudáveis, como um baixo *Time-to-First-Commit* para garantir que os membros juniores conseguiram configurar o ambiente e contribuir rapidamente. A colaboração deve ser visível. |

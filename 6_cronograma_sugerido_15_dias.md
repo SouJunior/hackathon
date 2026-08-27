@@ -6,7 +6,7 @@ Dividir os 15 dias em "sprints" menores ajuda as equipes a não deixarem tudo pa
 
 * **Dias 1 a 3: Lançamento e Team Building**
 
-  * **Kick-off:** Uma live curta explicando as regras, o objetivo do novo site e os critérios de avaliação.
+  * **Kick-off:** Uma live curta explicando as regras, o objetivo da Landing Page do Apoia.se e os critérios de avaliação.
 
   * **Formação de Equipes:** Utilize os canais no [Discord](https://discord.gg/FkBcf3vdQZ) para que desenvolvedores (front-end, back-end), designers e QAs possam se encontrar e formar grupos (ideal de 3 a 10 pessoas).
 

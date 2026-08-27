@@ -10,7 +10,7 @@ Data: 11/set - 25/set
 Siga esta sequência para entender o hackathon do início ao fim:
 
 1. **[Inscrição](1_inscricao.md)** — Como participar, doação no Apoia.se e formulário de cadastro
-2. **[Desafio](2_desafio_site_soujunior.tech.md)** — O que é o hackathon e qual é a missão
+2. **[Desafio](2_desafio_site_soujunior.tech.md)** — O que é o hackathon e a missão de criar a Landing Page do Apoia.se
 3. **[Regulamento](3_regulamento_oficial_hackathon_soujunior.md)** — Regras, código de conduta e critérios de avaliação
 4. **[Briefing de Produto](4_briefing_de_produto_novo_soujunior.md)** — PRD com requisitos obrigatórios do MVP
 5. **[Times](5_times.md)** — Como formar sua equipe
