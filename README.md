@@ -37,12 +37,20 @@ A **SouJunior** é mantida pelo apoio da nossa comunidade, e desafiou todas as e
 | 0 | [Índice](0_index.md) | Ponto de entrada e navegação |
 | 1 | [Inscrição](1_inscricao.md) | Como participar e se cadastrar |
 | 2 | [Desafio](2_desafio_site_soujunior.tech.md) | O que é o hackathon |
-| 3 | [Regulamento](3_regulamento_oficial_hackathon_soujunior.md) | Regras e critérios de avaliação |
+| 3 | [Regulamento](3_regulamento_oficial_hackathon_soujunior.md) | Regras, critérios de avaliação e jurados |
 | 4 | [Briefing de Produto](4_briefing_de_produto_novo_soujunior.md) | PRD e requisitos do MVP |
 | 5 | [Times](5_times.md) | Como formar sua equipe |
 | 6 | [Cronograma](6_cronograma_sugerido_15_dias.md) | Plano de execução em sprints |
 | 7 | [Parceiros](7_parceiros.md) | Propostas de parceria |
 | 8 | [Submissão](8_submissao.md) | Como entregar seu projeto |
+
+---
+
+## Banca Avaliadora (Jurados)
+
+- **Vanêssa Santana** — [LinkedIn](https://www.linkedin.com/in/vanessa-patricia/)
+- **Renato Araújo** — [LinkedIn](https://www.linkedin.com/in/renatolhp/)
+- **Wouerner Brandão** — [LinkedIn](https://www.linkedin.com/in/wouerner/)
 
 ---
 

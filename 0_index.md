@@ -11,7 +11,7 @@ Siga esta sequência para entender o hackathon do início ao fim:
 
 1. **[Inscrição](1_inscricao.md)** — Como participar, planilha de inscrição e formulário de envio
 2. **[Desafio](2_desafio_site_soujunior.tech.md)** — O que é o hackathon e a missão de criar a Landing Page do Apoia.se
-3. **[Regulamento](3_regulamento_oficial_hackathon_soujunior.md)** — Regras, código de conduta e critérios de avaliação
+3. **[Regulamento](3_regulamento_oficial_hackathon_soujunior.md)** — Regras, código de conduta, critérios de avaliação e jurados
 4. **[Briefing de Produto](4_briefing_de_produto_novo_soujunior.md)** — PRD com requisitos obrigatórios do MVP
 5. **[Times](5_times.md)** — Como formar sua equipe
 6. **[Cronograma](6_cronograma_sugerido_15_dias.md)** — Plano de execução em sprints

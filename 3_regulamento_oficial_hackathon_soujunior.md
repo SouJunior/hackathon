@@ -31,3 +31,12 @@ A avaliação será baseada em critérios técnicos e de produto, garantindo que
 ## **4\. Resolução de Empates e Transparência**
 
 Em caso de empate na pontuação final, o critério de desempate será a **Qualidade da Documentação (README)**. Um projeto open-source só vive se puder ser compreendido por outros. A decisão da banca avaliadora será final, fundamentada tecnicamente e, sempre que possível, acompanhada de feedbacks construtivos para as equipes.  
+
+## **5\. Banca Avaliadora (Jurados)**
+
+A banca avaliadora responsável pela avaliação e julgamento dos projetos do Hackathon é composta por:
+
+* **Vanêssa Santana** — [LinkedIn](https://www.linkedin.com/in/vanessa-patricia/)
+* **Renato Araújo** — [LinkedIn](https://www.linkedin.com/in/renatolhp/)
+* **Wouerner Brandão** — [LinkedIn](https://www.linkedin.com/in/wouerner/)
+
