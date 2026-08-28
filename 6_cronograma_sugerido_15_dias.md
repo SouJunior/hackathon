@@ -6,7 +6,7 @@ Dividir os 15 dias em "sprints" menores ajuda as equipes a não deixarem tudo pa
 
 * **Dias 1 a 3: Lançamento e Team Building**
 
-  * **Kick-off:** Uma live curta explicando as regras, o objetivo da Landing Page do Apoia.se e os critérios de avaliação.
+  * **Live de Inauguração (Kick-off):** Uma live oficial abrindo o hackathon, explicando as regras, o objetivo da Landing Page do Apoia.se e os critérios de avaliação.
 
   * **Formação de Equipes:** Utilize os canais no [Discord](https://discord.gg/FkBcf3vdQZ) para que desenvolvedores (front-end, back-end), designers e QAs possam se encontrar e formar grupos (ideal de 3 a 10 pessoas).
 
@@ -28,4 +28,6 @@ Dividir os 15 dias em "sprints" menores ajuda as equipes a não deixarem tudo pa
 
   * As equipes gravam um vídeo curto (pitch de 3 a 5 minutos) demonstrando o projeto rodando.
 
-  * Avaliação técnica do código e do design.  
+  * Avaliação técnica do código e do design.
+
+  * **Live de Encerramento e Premiação:** Live oficial para anunciar os resultados e mostrar os premiados. Apenas o 1º lugar receberá prêmio, mas os 2º e 3º colocados participarão da live para apresentar seus projetos.

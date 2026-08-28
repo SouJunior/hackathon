@@ -46,8 +46,8 @@ Antes de enviar, confira:
 - [ ] Repositório público no GitHub com licença open source
 - [ ] README.md completo com instruções de execução
 - [ ] Vídeo de apresentação (máximo 5 minutos) gravado e link disponível
-- [ ] Time devidamente cadastrado no [Formulário de Inscrição](https://forms.gle/omWCKViU1PC71pn39)
-- [ ] Todos os integrantes são doadores no [Apoia.se](https://apoia.se/soujunior)
+- [ ] Time devidamente cadastrado na [Planilha de Inscrição](https://docs.google.com/spreadsheets/d/168MaqnxTHYqWTTmMBHyhZpFKlXJLWvXQl5sWSPxC-_s/edit?usp=sharing)
+- [ ] Planilha preenchida enviada via [Formulário de Envio](https://forms.gle/kJgGPYu3D4QXFEuy6)
 
 ---
 

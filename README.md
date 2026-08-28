@@ -21,9 +21,9 @@ A **SouJunior** é mantida pelo apoio da nossa comunidade, e desafiou todas as e
 
 ## Como Participar
 
-1. **Torne-se doador** no [Apoia.se](https://apoia.se/soujunior) (mínimo R$ 2,00)
+1. **Baixe e preencha a planilha** de inscrição
 2. **Monte sua equipe** de 2 a 10 pessoas
-3. **Cadastre seu time** no [Formulário de Inscrição](https://forms.gle/omWCKViU1PC71pn39)
+3. **Envie a planilha** preenchida via formulário
 4. **Entre no grupo do WhatsApp** (apenas avisos) e no **Discord** (para tirar dúvidas)
 
 ---
@@ -46,7 +46,8 @@ A **SouJunior** é mantida pelo apoio da nossa comunidade, e desafiou todas as e
 
 ## Links Importantes
 
-- [Formulário de Inscrição](https://forms.gle/omWCKViU1PC71pn39)
+- [Planilha de Inscrição](https://docs.google.com/spreadsheets/d/168MaqnxTHYqWTTmMBHyhZpFKlXJLWvXQl5sWSPxC-_s/edit?usp=sharing)
+- [Formulário de Envio da Planilha](https://forms.gle/kJgGPYu3D4QXFEuy6)
 - [Apoia.se da SouJunior](https://apoia.se/soujunior)
 - [Site SouJunior](https://soujunior.tech)
 - [GitHub SouJunior](https://github.com/SouJunior)
