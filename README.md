@@ -48,8 +48,9 @@ A **SouJunior** é mantida pelo apoio da nossa comunidade, e desafiou todas as e
 
 ## Banca Avaliadora (Jurados)
 
-- **Vanêssa Santana** — [LinkedIn](https://www.linkedin.com/in/vanessa-patricia/)
+- **Bruno Barreiras** — [LinkedIn](https://www.linkedin.com/in/brunobarreiras/)
 - **Renato Araújo** — [LinkedIn](https://www.linkedin.com/in/renatolhp/)
+- **Vanêssa Santana** — [LinkedIn](https://www.linkedin.com/in/vanessa-patricia/)
 - **Wouerner Brandão** — [LinkedIn](https://www.linkedin.com/in/wouerner/)
 
 ---

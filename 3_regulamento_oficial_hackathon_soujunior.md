@@ -36,7 +36,10 @@ Em caso de empate na pontuação final, o critério de desempate será a **Quali
 
 A banca avaliadora responsável pela avaliação e julgamento dos projetos do Hackathon é composta por:
 
-* **Vanêssa Santana** — [LinkedIn](https://www.linkedin.com/in/vanessa-patricia/)
+* **Bruno Barreiras** — [LinkedIn](https://www.linkedin.com/in/brunobarreiras/)
 * **Renato Araújo** — [LinkedIn](https://www.linkedin.com/in/renatolhp/)
+* **Vanêssa Santana** — [LinkedIn](https://www.linkedin.com/in/vanessa-patricia/)
 * **Wouerner Brandão** — [LinkedIn](https://www.linkedin.com/in/wouerner/)
+
+
 
