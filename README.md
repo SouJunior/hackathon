@@ -13,6 +13,8 @@
 
 A **SouJunior** é mantida pelo apoio da nossa comunidade, e desafiou todas as equipes a criarem uma **Landing Page altamente criativa e de alto impacto focada no Apoia.se** (https://apoia.se/soujunior). Em 15 dias, equipes multidisciplinares vão planejar, desenhar, codificar e testar uma página inovadora para engajar novos apoiadores e demonstrar o impacto do nosso projeto.
 
+**Foco do Evento:** O hackathon da SouJunior é voltado para **profissionais em início de carreira (juniores)**. Profissionais plenos e seniores podem participar como **mentores** dos times, auxiliando com experiência técnica e boas práticas.
+
 **Data:** 11 de setembro a 25 de setembro  
 **Limite por time:** até 10 pessoas  
 **Prêmio:** Os 3 primeiros colocados apresentam ao vivo na live da SouJunior

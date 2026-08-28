@@ -2,7 +2,7 @@ Ter todas essas disciplinas disponíveis é o cenário dos sonhos para um hackat
 
 Para um ciclo de 15 dias, recomendo formar times de **até 10 pessoas**. Menos que isso sobrecarrega os participantes, e mais do que isso gera gargalos de comunicação e atrasa as tomadas de decisão.
 
-**Importante:** Mentores (plenos e seniores) também podem participar dos times, desde que estejam devidamente listados na planilha de inscrição. Eles atuarão como guias técnicos, mas contam como integrantes da equipe — o limite de 10 pessoas vale para todos.
+**Importante:** O hackathon é voltado para profissionais juniores em início de carreira. Profissionais plenos e seniores podem participar como **mentores** dos times, desde que estejam devidamente listados na planilha de inscrição. Eles atuarão como guias técnicos, compartilhando experiência e boas práticas — o limite de 10 pessoas vale para todos.
 
 Aqui está a sugestão do formato ideal de uma Squad para esse desafio:
 

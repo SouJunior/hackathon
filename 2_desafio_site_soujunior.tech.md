@@ -2,6 +2,8 @@
 
 A **SouJunior** é mantida com o apoio e o engajamento da própria comunidade. Para fortalecer nossa sustentabilidade e continuar oferecendo mentorias gratuitas, projetos open-source e oportunidades para profissionais juniores, estamos lançando o desafio oficial: **criar uma Landing Page incrível, criativa e altamente persuasiva focada no Apoia.se da SouJunior (https://apoia.se/soujunior).**
 
+**Foco do Evento:** O hackathon é voltado para **profissionais em início de carreira (juniores)**. Profissionais plenos e seniores podem participar como **mentores** dos times, auxiliando com experiência técnica e boas práticas.
+
 Não estamos buscando um formulário simples de doação. Queremos uma experiência visual e narrativa marcante! O objetivo deste Hackathon é transformar a jornada do apoiador em uma página envolvente, moderna e transparente, capaz de inspirar visitantes a se tornarem doadores do movimento.
 
 #### **🎯 A Missão da Sua Squad**

@@ -40,7 +40,7 @@ A comunicação do evento é separada por finalidade para facilitar a interaçã
 
 ## Sobre Mentores
 
-Mentores (plenos e seniores) também podem participar do hackathon, desde que estejam incluídos na planilha de inscrição. Eles atuarão como guias técnicos dentro dos times, mas fazem parte da equipe como qualquer outro integrante.
+O hackathon da SouJunior é voltado para **profissionais em início de carreira (juniores)**. Profissionais plenos e seniores podem participar como **mentores** dos times, atuando como guias técnicos e compartilhando experiência. Mentores devem estar incluídos na planilha de inscrição e fazem parte da equipe como qualquer outro integrante.
 
 ---
 
@@ -56,7 +56,10 @@ Sim. A planilha de inscrição é obrigatória. Apenas participantes listados na
 Após preencher, salve o arquivo no Google Drive (compartilhe com "qualquer pessoa com o link") e envie o link pelo formulário de envio.
 
 **Preciso ter experiência?**
-Não! O hackathon é aberto para todos os níveis de experiência. É uma ótima oportunidade para aprender.
+Não! O hackathon é aberto para todos os níveis de experiência, com foco especial em profissionais juniores em início de carreira. É uma ótima oportunidade para aprender e ganhar experiência prática.
+
+**Plenos e seniores podem participar?**
+Sim! Profissionais plenos e seniores podem participar como **mentores** dos times, auxiliando com experiência técnica e boas práticas.
 
 **Mentores precisam estar na planilha?**
 Sim. Todos os participantes, incluindo mentores, devem estar listados na planilha de inscrição.
