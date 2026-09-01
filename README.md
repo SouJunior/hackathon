@@ -15,6 +15,7 @@ A **SouJunior** é mantida pelo apoio da nossa comunidade, e desafiou todas as e
 
 **Foco do Evento:** O hackathon da SouJunior é voltado para **profissionais em início de carreira (juniores)**. Profissionais plenos e seniores podem participar como **mentores** dos times, auxiliando com experiência técnica e boas práticas.
 
+**Formato:** 100% Online (sem eventos presenciais). As equipes podem se reunir e organizar através do nosso Discord.  
 **Data:** 11 de setembro a 25 de setembro  
 **Limite por time:** até 10 pessoas  
 **Prêmio:** Os 3 primeiros colocados apresentam ao vivo na live da SouJunior

@@ -46,6 +46,9 @@ O hackathon da SouJunior é voltado para **profissionais em início de carreira 
 
 ## Perguntas Frequentes
 
+**O hackathon é online ou presencial?**
+O hackathon é **100% online**. Não teremos nenhum evento ou encontro presencial. Todo o evento, comunicação, lives e encontros das equipes acontecerão virtualmente, principalmente através do nosso canal no Discord.
+
 **Posso participar sozinho?**
 Não. É obrigatório formar uma equipe de 2 a 10 pessoas para participar do hackathon.
 
