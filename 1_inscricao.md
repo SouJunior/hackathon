@@ -22,7 +22,7 @@ Após preencher a planilha, envie o arquivo através do formulário abaixo. O ar
 
 ### 3. Monte seu Time
 
-É **obrigatório** formar uma equipe de **2 a 10 pessoas** para participar. Não é permitido participar sozinho. Se você ainda não tem time, acesse os canais do [Discord da Comunidade SouJunior](https://discord.gg/FkBcf3vdQZ) para encontrar colegas.
+É **obrigatório** formar uma equipe de **2 a 10 pessoas** para participar. Não é permitido participar sozinho e o time não pode ser formado apenas por mentores (é obrigatório ter no mínimo 1 pessoa júnior). Se você ainda não tem time, acesse os canais do [Discord da Comunidade SouJunior](https://discord.gg/FkBcf3vdQZ) para encontrar colegas.
 
 ---
 

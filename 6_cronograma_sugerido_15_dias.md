@@ -8,7 +8,7 @@ Dividir os 15 dias de evento em "sprints" menores ajuda as equipes a não deixar
 
   * **Live de Inauguração (Kick-off):** Uma live oficial abrindo o hackathon no dia 11 às 22h, explicando as regras, o objetivo da Landing Page do Apoia.se e os critérios de avaliação.
 
-  * **Formação de Equipes:** Utilize os canais no [Discord](https://discord.gg/FkBcf3vdQZ) para que desenvolvedores (front-end, back-end), designers e QAs possam se encontrar e formar grupos (ideal de 3 a 10 pessoas).
+  * **Formação de Equipes:** Utilize os canais no [Discord](https://discord.gg/FkBcf3vdQZ) para que desenvolvedores (front-end, back-end), designers e QAs possam se encontrar e formar grupos (mínimo de 2 e máximo de 10 pessoas).
 
   * **Definição de Escopo:** As equipes devem entregar, até o final do dia 13, um documento simples com a proposta do que vão construir (wireframes básicos e stack escolhida).
 

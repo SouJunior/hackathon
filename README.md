@@ -17,7 +17,7 @@ A **SouJunior** é mantida pelo apoio da nossa comunidade, e desafiou todas as e
 
 **Formato:** 100% Online (sem eventos presenciais). As equipes podem se reunir e organizar através do nosso Discord.  
 **Data:** 11 de setembro a 25 de setembro  
-**Limite por time:** até 10 pessoas  
+**Limite por time:** 2 a 10 pessoas (sendo obrigatório pelo menos 1 júnior, não podendo ser formado apenas por mentores)  
 **Prêmio:** Os 3 primeiros colocados apresentam ao vivo na live da SouJunior
 
 ---
