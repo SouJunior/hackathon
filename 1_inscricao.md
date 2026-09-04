@@ -16,7 +16,7 @@ Baixe a planilha abaixo, preencha com os dados de **todos** os integrantes da su
 
 Após preencher a planilha, envie o arquivo através do formulário abaixo. O arquivo precisa estar acessível pelo link (salve no Google Drive e compartilhe com "qualquer pessoa com o link").
 
-**Link do Formulário:** [Formulário de Envio da Planilha](https://forms.gle/kJgGPYu3D4QXFEuy6)
+**Link do Formulário:** [Formulário de Envio da Planilha](https://forms.gle/kJgGPYu3D4QXFEuy6){:id="cta-inscricao-form"}
 
 ---
 

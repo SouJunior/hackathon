@@ -48,14 +48,45 @@
       search: 'auto',
       plugins: [
         function(hook, vm) {
-          // Dispara alteração de página no GTM a cada troca de rota no Docsify (SPA)
+          const eventMap = {
+            '2_desafio_site_soujunior.tech': 'view_desafio',
+            '3_regulamento_oficial_hackathon_soujunior': 'view_regulamento',
+            '4_briefing_de_produto_novo_soujunior': 'view_briefing',
+            '6_cronograma_sugerido_15_dias': 'view_cronograma',
+            '8_submissao': 'view_submissao'
+          };
+
+          // Dispara eventos no GTM a cada troca de rota no Docsify (SPA)
           hook.doneEach(function() {
-            window.dataLayer.push({
-              event: 'virtualPageview',
+            const pagePath = window.location.hash.slice(1); // Remove o '#' inicial
+            const data = {
               page_title: document.title,
               page_location: window.location.href,
-              page_path: window.location.hash || '/'
-            });
+              page_path: pagePath || '/'
+            };
+
+            // 1. Envia o pageview padrão
+            window.dataLayer.push({ event: 'virtualPageview', ...data });
+
+            // 2. Envia evento específico se a página for mapeada
+            for (const pathFragment in eventMap) {
+              if (pagePath.includes(pathFragment)) {
+                window.dataLayer.push({ event: eventMap[pathFragment], ...data });
+                break;
+              }
+            }
+
+            // 3. Adiciona listener para o botão de inscrição
+            // Usamos um pequeno timeout para garantir que o Docsify renderizou o conteúdo
+            setTimeout(() => {
+              const ctaButton = document.getElementById('cta-inscricao-form');
+              if (ctaButton && !ctaButton.dataset.gtmListenerAttached) {
+                ctaButton.addEventListener('click', () => {
+                  window.dataLayer.push({ event: 'generate_lead' });
+                });
+                ctaButton.dataset.gtmListenerAttached = 'true';
+              }
+            }, 500);
           });
         }
       ]
