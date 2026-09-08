@@ -2,7 +2,13 @@
 
 ## Como Participar
 
-### 1. Baixe e Preencha a Planilha de Inscrição
+### 1. Apoie no Apoia.se
+
+Para participar, cada integrante da equipe deve estar apoiando a SouJunior no [Apoia.se](https://apoia.se/soujunior). O valor mínimo de apoiador (a partir de R$ 2,00) já conta como elegível — não é necessário doar mais do que isso.
+
+---
+
+### 2. Baixe e Preencha a Planilha de Inscrição
 
 Baixe a planilha abaixo, preencha com os dados de **todos** os integrantes da sua equipe e salve o arquivo.
 
@@ -12,7 +18,7 @@ Baixe a planilha abaixo, preencha com os dados de **todos** os integrantes da su
 
 ---
 
-### 2. Envie a Planilha Preenchida
+### 3. Envie a Planilha Preenchida
 
 Após preencher a planilha, envie o arquivo através do formulário abaixo. O arquivo precisa estar acessível pelo link (salve no Google Drive e compartilhe com "qualquer pessoa com o link").
 
@@ -20,13 +26,13 @@ Após preencher a planilha, envie o arquivo através do formulário abaixo. O ar
 
 ---
 
-### 3. Monte seu Time
+### 4. Monte seu Time
 
 É **obrigatório** formar uma equipe de **2 a 10 pessoas** para participar. Não é permitido participar sozinho e o time não pode ser formado apenas por mentores (é obrigatório ter no mínimo 1 pessoa júnior). Se você ainda não tem time, acesse os canais do [Discord da Comunidade SouJunior](https://discord.gg/FkBcf3vdQZ) para encontrar colegas.
 
 ---
 
-### 4. Entre nos Canais Oficiais de Comunicação
+### 5. Entre nos Canais Oficiais de Comunicação
 
 A comunicação do evento é separada por finalidade para facilitar a interação:
 
@@ -66,6 +72,9 @@ Sim! Profissionais plenos e seniores podem participar como **mentores** dos time
 
 **Mentores precisam estar na planilha?**
 Sim. Todos os participantes, incluindo mentores, devem estar listados na planilha de inscrição.
+
+**Preciso estar apoiando no Apoia.se para participar?**
+Sim. Cada integrante da equipe deve ser apoiador no [Apoia.se da SouJunior](https://apoia.se/soujunior). O valor mínimo a partir de R$ 2,00 já conta — não é necessário doar mais do que isso.
 
 ---
 

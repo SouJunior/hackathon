@@ -5,6 +5,7 @@ Este documento estabelece as regras de participação, conduta e avaliação par
 ## **1\. Regras de Participação e Formação de Equipes**
 
 > * **Composição:** As equipes devem ser formadas por no mínimo 2 e no máximo 10 integrantes, contemplando idealmente as disciplinas de Produto, UX/UI, Desenvolvimento e QA. O hackathon é voltado para profissionais juniores em início de carreira, com profissionais plenos e seniores atuando como mentores. Um time não pode ser formado apenas por mentores (é obrigatório ter no mínimo 1 pessoa júnior).
+> * **Apoio no Apoia.se:** Para participar, cada integrante da equipe deve estar apoiando a SouJunior no [Apoia.se](https://apoia.se/soujunior). O valor mínimo de apoiador (a partir de R$ 2,00) já conta como elegível — não é necessário doar mais do que isso.
 > * **Inscrição:** Todos os membros devem estar devidamente registrados no sistema oficial e presentes no servidor de comunicação do evento.  
 > * **Originalidade:** Todo o código e design submetidos devem ser criados durante os 15 dias de evento. O uso de bibliotecas open-source e frameworks é permitido e encorajado, desde que a licença permita e seja devidamente creditado.  
 > * **Prazo:** O cronograma é rigoroso. Submissões (Pitch em vídeo e repositório) enviadas após o encerramento do cronômetro oficial não serão avaliadas.
