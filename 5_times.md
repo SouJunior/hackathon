@@ -6,7 +6,7 @@ Para um ciclo de 15 dias, recomendo formar times de **2 a 10 pessoas**. Menos qu
 
 Aqui está a sugestão do formato ideal de uma Squad para esse desafio:
 
-### **A Squad Ideal (5 Integrantes)**
+### **A Squad Ideal (5 a 6 Integrantes)**
 
 * **1x Produto (PM/PO) \- O Guardião do Foco:**  
   * **Missão:** Em 15 dias, é muito fácil a equipe querer abraçar o mundo e não entregar nada. O papel de Produto é definir o escopo do MVP (Produto Mínimo Viável), organizar o backlog, escrever as histórias de usuário e garantir que a solução final atenda à essência da SouJunior.  
@@ -16,6 +16,10 @@ Aqui está a sugestão do formato ideal de uma Squad para esse desafio:
   * **Missão:** Transformar os protótipos em código funcional. Ter dois desenvolvedores permite que eles façam *Pair Programming* e revisem o código um do outro. A dinâmica pode ser dividida entre um com foco maior no Front-end e outro no Back-end/Infra, ou dois Full-stack dividindo as *features*.  
 * **1x QA (Quality Assurance) \- O Guardião da Qualidade:**  
   * **Missão:** Não apenas caçar bugs no último dia, mas criar e aplicar um checklist rigoroso de qualidade de software desde o início. O QA vai testar a responsividade em diferentes telas, validar cenários de uso, verificar links quebrados e garantir que a entrega final funcione perfeitamente.
+* **1x Agilista (Scrum Master / Facilitador Ágil) \- O Maestro do Ritmo:**  
+  * **Missão:** Garantir que o time mantenha o ritmo e não trave no meio do caminho. Organiza as dailies rápidas (15 min), mantém o quadro Kanban atualizado, remove impedimentos (acessos, dúvidas travadas, conflitos de agenda) e facilita uma retrospectiva rápida no meio e no fim do desafio. Em 15 dias, um dia parado custa muito caro — o Agilista zela pelo fluxo contínuo, pela comunicação clara e por ajudar o PM a cortar escopo sem culpa quando preciso.
+
+> **Não tem 6 pessoas?** Sem problema. Em times de 5, o chapéu de Agilista pode ser acumulado pelo PM/PO ou rodiziado entre os integrantes. O importante é ter alguém responsável por puxar as dailies, cobrar atualização do quadro e destravar o time todos os dias.
 
 ### **Como fazer esse time rodar em 15 dias?**
 
