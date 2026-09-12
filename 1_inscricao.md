@@ -1,5 +1,9 @@
 # Inscrição no Hackathon SouJunior
 
+> 🔒 **Inscrições encerradas hoje às 20:00h.**
+>
+> Essa edição teve início na live de hoje: [Assistir à live de abertura](https://www.youtube.com/watch?v=QdvM3IieSzk)
+
 ## Como Participar
 
 ### 1. Apoie no Apoia.se
