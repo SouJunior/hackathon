@@ -17,6 +17,8 @@ Siga esta sequência para entender o hackathon do início ao fim:
 6. **[Cronograma](6_cronograma_sugerido_15_dias.md)** — Plano de execução em sprints
 7. **[Parceiros](7_parceiros.md)** — Propostas de parceria e patrocínio
 8. **[Submissão](8_submissao.md)** — Como entregar seu projeto
+9. **[Material Extra](9_material_extra.md)** <span class="badge-novo">Novo</span> — Vídeo do desafio, UI Kit e fontes
+10. **[Inscritos](10_inscritos.md)** <span class="badge-novo">Novo</span> — Equipes e pessoas inscritas nesta edição
 
 ---
 

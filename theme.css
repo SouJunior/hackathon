@@ -115,6 +115,23 @@
   box-shadow: 0 0 0 2px rgba(0, 106, 215, 0.2);
 }
 
+/* Badge "Novo" - marcador de novidade */
+.badge-novo {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #ffffff;
+  background-color: #006AD7;
+  border-radius: 999px;
+  padding: 0.3em 0.65em;
+  margin-left: 0.4em;
+  vertical-align: middle;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
 /* Buttons */
 button {
   background-color: #00205F;

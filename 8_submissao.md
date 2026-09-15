@@ -31,7 +31,17 @@ Para que sua equipe seja considerada na avaliação, **todos** os itens abaixo d
 
 ---
 
-### 4. Classificação e Apresentação ao Vivo
+### 4. Envio dos Dados do Projeto <span class="badge-novo">Novo</span>
+
+Com repositório e vídeo prontos, envie os dados do projeto da sua equipe pelo formulário oficial:
+
+**[Enviar dados do projeto](https://forms.gle/r6QT7Br94s9xT1Ax6)**
+
+Preencha com atenção: são esses dados que a organização vai usar para avaliar e entrar em contato com a equipe.
+
+---
+
+### 5. Classificação e Apresentação ao Vivo
 
 - As equipes serão avaliadas conforme os critérios do [Regulamento Oficial](3_regulamento_oficial_hackathon_soujunior.md).
 - **Os 3 primeiros colocados** terão a oportunidade de apresentar seus projetos ao vivo em uma **live oficial da SouJunior**.
@@ -48,6 +58,7 @@ Antes de enviar, confira:
 - [ ] Vídeo de apresentação (máximo 5 minutos) gravado e link disponível
 - [ ] Time devidamente cadastrado na [Planilha de Inscrição](https://docs.google.com/spreadsheets/d/168MaqnxTHYqWTTmMBHyhZpFKlXJLWvXQl5sWSPxC-_s/edit?usp=sharing)
 - [ ] Planilha preenchida enviada via [Formulário de Envio](https://forms.gle/kJgGPYu3D4QXFEuy6)
+- [ ] Dados do projeto enviados via [Formulário de Submissão](https://forms.gle/r6QT7Br94s9xT1Ax6)
 
 ---
 

@@ -7,3 +7,5 @@
 - [Cronograma](6_cronograma_sugerido_15_dias.md)
 - [Parceiros](7_parceiros.md)
 - [Submissão](8_submissao.md)
+- [Material Extra](9_material_extra.md) <span class="badge-novo">Novo</span>
+- [Inscritos](10_inscritos.md) <span class="badge-novo">Novo</span>
