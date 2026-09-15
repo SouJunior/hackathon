@@ -10,7 +10,7 @@ Dividir os 15 dias de evento em "sprints" menores ajuda as equipes a não deixar
 
   * **Formação de Equipes:** Utilize os canais no [Discord](https://discord.gg/FkBcf3vdQZ) para que desenvolvedores (front-end, back-end), designers e QAs possam se encontrar e formar grupos (mínimo de 2 e máximo de 10 pessoas).
 
-  * **Definição de Escopo:** As equipes devem entregar, até o final do dia 13, um documento simples com a proposta do que vão construir (wireframes básicos e stack escolhida).
+  * **Definição de Escopo:** As equipes definem nesses dias o que vão construir (wireframes básicos e stack escolhida), mas não há entrega parcial — toda a entrega acontece no último dia.
 
 * **Dias 4 a 10 (14 a 20 de Setembro): Desenvolvimento Focado**
 

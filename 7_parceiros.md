@@ -2,6 +2,13 @@
 
 A SouJunior é uma comunidade de tecnologia focada em impulsionar o talento de profissionais no início de suas carreiras. Com o nosso Hackathon de 15 dias para a criação da Landing Page do Apoia.se, estamos abrindo oportunidades para que empresas inovadoras e profissionais seniores se juntem a nós nessa missão.
 
+## **Quem Já Apoia Esta Edição** <span class="badge-novo">Atualizado</span>
+
+- **[Wouerner.dev](https://www.linkedin.com/in/wouerner/) + [Agilize](https://indicacao.agilize.com.br/6b9e512c-9e36-4f9f-867e-58a82ed61904)** — Contabilidade especializada para devs e empresas de tecnologia.
+- **[Willian Meireles](https://www.linkedin.com/in/willian-meireles/)** — [vídeo de apresentação do produto](https://drive.google.com/file/d/1L97A7rTnFeyMsPuuULiqoGulVophwiqi/view?usp=sharing)
+- **[Devopness](https://www.devopness.com/)** — via [Jeferson F. Oliveira](https://www.linkedin.com/in/jefersonfoliveira/) (CEO) no LinkedIn
+- **[Anselmo Oliveira](https://www.linkedin.com/in/anselmo-n-de-oliveira/)**
+
 ## **1\. Por Que Apoiar a SouJunior?**
 
 Apoiar a comunidade não é apenas uma ação de responsabilidade social, é um investimento direto no futuro do ecossistema de software. Ao se tornar um parceiro, sua empresa ganha acesso antecipado a desenvolvedores engajados, exposição direta da marca em nossos canais (servidor do Discord, repositórios da organização no GitHub e na nova Landing Page do Apoia.se) e reforça seu compromisso com a formação prática de novos talentos.
@@ -20,14 +27,13 @@ Apoiar a comunidade não é apenas uma ação de responsabilidade social, é um 
 | **Parceiro Prata** | Licenças de software anuais, créditos de infraestrutura Cloud/Serverless ou premiação financeira para o 2º e 3º lugar do Hackathon. | Logo em destaque na seção "Parceiros" da nova Landing Page do Apoia.se, post dedicado no LinkedIn e cargo exclusivo no Discord. |
 | **Patrocinador Ouro** | Premiação principal do evento (equipamentos, aportes maiores) \+ disponibilização de mentores corporativos. | Destaque máximo e isolado na página, acesso prioritário para divulgar *job descriptions* diretamente para a comunidade e cadeira cativa na banca avaliadora. |
 
-## **4\. Como Doar e Entrar em Contato**
+## **4\. Como Apoiar e Entrar em Contato**
 
-Estruturamos canais diretos para facilitar o apoio, seja você uma pessoa física querendo doar um valor simbólico ou uma empresa estruturando uma parceria de longo prazo:
+Todo o apoio financeiro passa pelo nosso financiamento coletivo — não recebemos por PIX, e-mail ou outros meios:
 
-\- Chave PIX (Doações Diretas): \[Inserir Chave / E-mail\]  
 \- Plataforma de Financiamento Coletivo: https://apoia.se/soujunior  
-\- Contato para Parcerias B2B / Infraestrutura: parcerias@soujunior.tech
+\- Contato para Parcerias: chame o [Wouerner no LinkedIn](https://www.linkedin.com/in/wouerner/)
 
 ## **5\. Próximos Passos**
 
-Tem interesse em conectar sua marca com os desenvolvedores que construirão as tecnologias de amanhã? Entre em contato diretamente com a organização para desenharmos juntos a melhor estratégia de apoio.  
+Tem interesse em conectar sua marca com os desenvolvedores que construirão as tecnologias de amanhã? Entre em contato com o [Wouerner no LinkedIn](https://www.linkedin.com/in/wouerner/) para desenharmos juntos a melhor estratégia de apoio.  
