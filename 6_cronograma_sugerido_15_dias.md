@@ -1,6 +1,6 @@
 
 
-# 1\. Cronograma Sugerido (11 de Setembro a 25 de Setembro)
+# 1\. Cronograma Sugerido (11 a 28 de Setembro)
 
 Dividir os 15 dias de evento em "sprints" menores ajuda as equipes a não deixarem tudo para a última hora.
 
@@ -24,10 +24,16 @@ Dividir os 15 dias de evento em "sprints" menores ajuda as equipes a não deixar
 
   * Foco em polimento, responsividade, testes e documentação (um bom README é fundamental).
 
-* **Dias 14 a 15 (24 a 25 de Setembro): Submissão e Avaliação**
+* **Dias 14 a 15 (24 e 25 de Setembro): Live de Entrega e Submissão Final**
 
   * As equipes gravam um vídeo curto (pitch de 3 a 5 minutos) demonstrando o projeto rodando e submetem até o dia 24.
 
-  * Avaliação técnica do código e do design pelas bancas durante os dias 24 e 25.
+  * **Live de Entrega de Projetos (24 e 25 de Setembro):** lives oficiais para as equipes apresentarem seus projetos entregues.
 
-  * **Live de Encerramento e Premiação (25 de Setembro às 22h):** Live oficial para anunciar os resultados e mostrar os premiados. Apenas o 1º lugar receberá prêmio, mas os 2º e 3º colocados participarão da live para apresentar seus projetos.
+* **Final de Semana (26 e 27 de Setembro): Avaliação com Calma**
+
+  * A banca avaliadora analisa o código, o design e os vídeos com tranquilidade durante o fim de semana, sem pressa.
+
+* **Segunda-feira (28 de Setembro): Live de Resultado e Premiação (às 22h)**
+
+  * Live oficial para anunciar os resultados e mostrar os premiados. Apenas o 1º lugar receberá prêmio, mas os 2º e 3º colocados participarão da live para apresentar seus projetos.
