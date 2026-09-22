@@ -1,7 +1,7 @@
 # Hackathon SouJunior - Documentação
 
 Nome do evento: Desafio Junior  
-Data: 11/set - 25/set
+Data: 11/set - 28/set (Entregas até 24/set)
 
 ---
 

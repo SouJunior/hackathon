@@ -8,7 +8,7 @@ Este documento estabelece as regras de participação, conduta e avaliação par
 > * **Apoio no Apoia.se:** Para participar, cada integrante da equipe deve estar apoiando a SouJunior no [Apoia.se](https://apoia.se/soujunior). O valor mínimo de apoiador (a partir de R$ 2,00) já conta como elegível — não é necessário doar mais do que isso.
 > * **Inscrição:** Todos os membros devem estar devidamente registrados no sistema oficial e presentes no servidor de comunicação do evento.  
 > * **Originalidade:** Todo o código e design submetidos devem ser criados durante os 15 dias de evento. O uso de bibliotecas open-source e frameworks é permitido e encorajado, desde que a licença permita e seja devidamente creditado.  
-> * **Prazo:** O cronograma é rigoroso. Submissões (Pitch em vídeo e repositório) enviadas após o encerramento do cronômetro oficial não serão avaliadas.
+> * **Prazo:** O cronograma é rigoroso. O prazo final para submissão dos projetos (repositório e formulário de submissão com pitch) é até o **dia 24 de setembro**. Entregas enviadas após o encerramento oficial não serão avaliadas.
 
 ## **2\. Código de Conduta e Comportamento**
 
@@ -29,9 +29,13 @@ A avaliação será baseada em critérios técnicos e de produto, garantindo que
 | **Acessibilidade e Responsividade** | 20% | O site funciona com excelência em diferentes tamanhos de tela (mobile-first)? A equipe aplicou boas práticas de acessibilidade web (contraste, navegação sem mouse, hierarquia de tags)? |
 | **Dinâmica de Equipe e Integração** | 20% | Avaliação do histórico do repositório. Observaremos métricas de produtividade saudáveis, como um baixo *Time-to-First-Commit* para garantir que os membros juniores conseguiram configurar o ambiente e contribuir rapidamente. A colaboração deve ser visível. |
 
-## **4\. Resolução de Empates e Transparência**
+## **4\. Processo de Avaliação, Resolução de Empates e Transparência**
 
-Em caso de empate na pontuação final, o critério de desempate será a **Qualidade da Documentação (README)**. Um projeto open-source só vive se puder ser compreendido por outros. A decisão da banca avaliadora será final, fundamentada tecnicamente e, sempre que possível, acompanhada de feedbacks construtivos para as equipes.  
+A avaliação de todos os projetos será conduzida pela banca avaliadora durante o final de semana (26 e 27 de setembro) através da planilha oficial de critérios de avaliação do evento.
+
+Em caso de empate na pontuação final, o critério de desempate será a **Qualidade da Documentação (README)**. Um projeto open-source só vive se puder ser compreendido por outros. A decisão da banca avaliadora será final, fundamentada tecnicamente e, sempre que possível, acompanhada de feedbacks construtivos para as equipes.
+
+O anúncio dos 3 melhores colocados e a revelação e apresentação do projeto vencedor acontecerão em live oficial na segunda-feira, 28 de setembro.
 
 ## **5\. Banca Avaliadora (Jurados)**
 

@@ -25,9 +25,9 @@ Para que sua equipe seja considerada na avaliação, **todos** os itens abaixo d
 
 ### 3. Prazo de Entrega
 
-- Todas as entregas (repositório + vídeo) devem ser feitas até a **data final do hackathon**.
+- Todas as entregas (repositório + dados do projeto via formulário) devem ser feitas **até o dia 24 de setembro**.
 - **Nenhum commit pode ser feito no repositório após a data e hora de encerramento.** Commits posteriores serão desconsiderados na avaliação.
-- A data e horário de corte serão informados oficialmente no grupo de avisos do WhatsApp.
+- O horário limite de encerramento será informado oficialmente no grupo de avisos do WhatsApp.
 
 ---
 
@@ -41,11 +41,22 @@ Preencha com atenção: são esses dados que a organização vai usar para avali
 
 ---
 
-### 5. Classificação e Apresentação ao Vivo
+### 5. Apresentações em Live (24 e 25 de Setembro) <span class="badge-novo">Novo</span>
 
-- As equipes serão avaliadas conforme os critérios do [Regulamento Oficial](3_regulamento_oficial_hackathon_soujunior.md).
-- **Os 3 primeiros colocados** terão a oportunidade de apresentar seus projetos ao vivo em uma **live oficial da SouJunior**.
-- A live servirá como vitrine para a comunidade e para potenciais parceiros e patrocinadores.
+- **Lives de Apresentação:** Nos dias **24 e 25 de setembro**, teremos lives oficiais para os times apresentarem seus projetos.
+- **Duração:** Cada equipe terá **até 7 minutos** para apresentar ao vivo.
+- **1 Membro por Equipe:** Por dinâmica e organização da transmissão, **apenas 1 membro do time** entrará na live para apresentar.
+- **Apresentação Opcional:** Apresentar ao vivo é uma oportunidade para marcar a presença dos integrantes no evento e dar visibilidade ao trabalho para toda a comunidade. No entanto, é opcional: as equipes podem apenas submeter o projeto sem apresentar em live — todos os projetos submetidos serão avaliados normalmente pela banca.
+- **Inscrição para a Live:** Se a sua equipe for participar da apresentação ao vivo, o membro que irá apresentar deve se inscrever pelo formulário oficial:
+
+**[Inscrever membro do time para apresentação na live](https://forms.gle/5TgdpjkWQgHhSc9k6)** <span class="badge-novo">Novo</span>
+
+---
+
+### 6. Avaliação da Banca e Live Final
+
+- **Avaliação e Votação (26 e 27 de Setembro):** Durante o sábado e domingo, a banca avaliadora analisará e votará em todos os projetos utilizando a planilha oficial de critérios de avaliação estruturada pela Vanêssa.
+- **Live dos 3 Melhores e Vencedor (28 de Setembro às 22h):** Na segunda-feira, teremos a live oficial com a participação dos 3 melhores colocados e a revelação com apresentação da equipe vencedora!
 
 ---
 
@@ -53,12 +64,14 @@ Preencha com atenção: são esses dados que a organização vai usar para avali
 
 Antes de enviar, confira:
 
+- [ ] Projeto entregue até 24 de setembro
 - [ ] Repositório público no GitHub com licença open source
 - [ ] README.md completo com instruções de execução
 - [ ] Vídeo de apresentação (máximo 5 minutos) gravado e link disponível
 - [ ] Time devidamente cadastrado na [Planilha de Inscrição](https://docs.google.com/spreadsheets/d/168MaqnxTHYqWTTmMBHyhZpFKlXJLWvXQl5sWSPxC-_s/edit?usp=sharing)
 - [ ] Planilha preenchida enviada via [Formulário de Envio](https://forms.gle/kJgGPYu3D4QXFEuy6)
 - [ ] Dados do projeto enviados via [Formulário de Submissão](https://forms.gle/r6QT7Br94s9xT1Ax6)
+- [ ] (Opcional) Membro do time inscrito no [Formulário de Apresentação na Live](https://forms.gle/5TgdpjkWQgHhSc9k6) <span class="badge-novo">Novo</span> caso a equipe queira apresentar nos dias 24/25 (até 7 min)
 
 ---
 

@@ -24,16 +24,20 @@ Dividir os 15 dias de evento em "sprints" menores ajuda as equipes a não deixar
 
   * Foco em polimento, responsividade, testes e documentação (um bom README é fundamental).
 
-* **Dias 14 a 15 (24 e 25 de Setembro): Live de Entrega e Submissão Final**
+* **Dias 14 a 15 (24 e 25 de Setembro): Entrega e Lives de Apresentação**
 
-  * As equipes gravam um vídeo curto (pitch de 3 a 5 minutos) demonstrando o projeto rodando e submetem até o dia 24.
+  * **Prazo Final de Entrega (até 24 de Setembro):** Todas as equipes concluem o projeto, gravam o vídeo de demonstração e enviam pelo formulário oficial de submissão até o dia 24.
 
-  * **Live de Entrega de Projetos (24 e 25 de Setembro):** lives oficiais para as equipes apresentarem seus projetos entregues.
+  * **Lives de Apresentação dos Projetos (24 e 25 de Setembro):**
+    * Apresentação ao vivo em live oficial da SouJunior, com duração de **até 7 minutos** por equipe.
+    * Por organização da transmissão, **entra apenas 1 membro do time** para conduzir a apresentação.
+    * **Apresentação opcional:** É uma oportunidade pensada para marcar a presença dessas pessoas no evento e dar visibilidade ao time. Quem preferir pode optar por submeter o projeto sem apresentar em live — todos os projetos submetidos serão avaliados igualmente pela banca.
+    * **Inscrição para a Live:** Para os times que forem apresentar, 1 membro deve se inscrever através do [Formulário de Inscrição da Live](https://forms.gle/5TgdpjkWQgHhSc9k6) <span class="badge-novo">Novo</span>.
 
-* **Final de Semana (26 e 27 de Setembro): Avaliação com Calma**
+* **Final de Semana (26 e 27 de Setembro): Avaliação e Votação da Banca**
 
-  * A banca avaliadora analisa o código, o design e os vídeos com tranquilidade durante o fim de semana, sem pressa.
+  * A banca avaliadora terá o sábado e domingo para analisar e votar nos projetos com tranquilidade, utilizando a planilha oficial de avaliação elaborada pela Vanêssa.
 
-* **Segunda-feira (28 de Setembro): Live de Resultado e Premiação (às 22h)**
+* **Segunda-feira (28 de Setembro): Live dos 3 Melhores e Premiação (às 22h)**
 
-  * Live oficial para anunciar os resultados e mostrar os premiados. Apenas o 1º lugar receberá prêmio, mas os 2º e 3º colocados participarão da live para apresentar seus projetos.
+  * Live oficial para anunciar os resultados com a presença dos 3 melhores colocados e a apresentação do projeto vencedor. Apenas o 1º lugar receberá prêmio, mas os 2º e 3º colocados participarão da live para apresentar seus projetos.

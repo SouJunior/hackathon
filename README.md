@@ -16,9 +16,9 @@ A **SouJunior** é mantida pelo apoio da nossa comunidade, e desafiou todas as e
 **Foco do Evento:** O hackathon da SouJunior é voltado para **profissionais em início de carreira (juniores)**. Profissionais plenos e seniores podem participar como **mentores** dos times, auxiliando com experiência técnica e boas práticas.
 
 **Formato:** 100% Online (sem eventos presenciais). As equipes podem se reunir e organizar através do nosso Discord.  
-**Data:** 11 de setembro a 25 de setembro  
+**Data:** 11 de setembro a 28 de setembro (Entregas até 24 de setembro)  
 **Limite por time:** 2 a 10 pessoas (sendo obrigatório pelo menos 1 júnior, não podendo ser formado apenas por mentores)  
-**Prêmio:** Os 3 primeiros colocados apresentam ao vivo na live da SouJunior
+**Apresentações e Premiação:** Lives de apresentação nos dias 24 e 25 (até 7 min por equipe, opcional), avaliação no fim de semana (26 e 27) e live dos 3 melhores no dia 28 com apresentação do vencedor
 
 ---
 
@@ -62,6 +62,8 @@ A **SouJunior** é mantida pelo apoio da nossa comunidade, e desafiou todas as e
 
 - [Planilha de Inscrição](https://docs.google.com/spreadsheets/d/168MaqnxTHYqWTTmMBHyhZpFKlXJLWvXQl5sWSPxC-_s/edit?usp=sharing)
 - [Formulário de Envio da Planilha](https://forms.gle/kJgGPYu3D4QXFEuy6)
+- [Formulário de Submissão do Projeto](https://forms.gle/r6QT7Br94s9xT1Ax6)
+- [Inscrição para Apresentação em Live](https://forms.gle/5TgdpjkWQgHhSc9k6) <span class="badge-novo">Novo</span>
 - [Apoia.se da SouJunior](https://apoia.se/soujunior)
 - [Site SouJunior](https://soujunior.tech)
 - [GitHub SouJunior](https://github.com/SouJunior)
