@@ -9,3 +9,4 @@
 - [Submissão](8_submissao.md)
 - [Material Extra](9_material_extra.md) <span class="badge-novo">Novo</span>
 - [Inscritos](10_inscritos.md) <span class="badge-novo">Novo</span>
+- [Ganhadores](11_ganhadores.md) <span class="badge-novo">Novo</span>

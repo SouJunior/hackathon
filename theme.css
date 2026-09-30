@@ -208,3 +208,141 @@ button:hover {
     color: #ffffff;
   }
 }
+
+/* ==========================================================================
+   Podium and Winners Section Styles
+   ========================================================================== */
+
+.podium-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+.podium-card {
+  border-radius: 12px;
+  padding: 1.5rem 1.25rem;
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+.podium-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.podium-card.gold {
+  background: linear-gradient(145deg, #fffdf2 0%, #fff6cc 100%);
+  border: 2px solid #D4AF37;
+}
+
+.podium-card.silver {
+  background: linear-gradient(145deg, #f8f9fa 0%, #e9ecef 100%);
+  border: 2px solid #A0AEC0;
+}
+
+.podium-card.bronze {
+  background: linear-gradient(145deg, #fff7f2 0%, #fed7aa 100%);
+  border: 2px solid #C07D46;
+}
+
+.podium-badge {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.podium-card.gold .podium-badge {
+  background-color: #997300;
+  color: #ffffff;
+}
+
+.podium-card.silver .podium-badge {
+  background-color: #4A5568;
+  color: #ffffff;
+}
+
+.podium-card.bronze .podium-badge {
+  background-color: #8C4718;
+  color: #ffffff;
+}
+
+.podium-team {
+  font-size: 1.45rem;
+  font-weight: 800;
+  color: #00205F;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.01em;
+}
+
+.podium-subtitle {
+  font-size: 0.9rem;
+  color: #4a5568;
+  line-height: 1.4;
+  margin: 0.5rem 0 1rem;
+}
+
+.podium-members-count {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #00205F;
+  background-color: rgba(0, 32, 95, 0.08);
+  padding: 0.25rem 0.65rem;
+  border-radius: 6px;
+}
+
+/* Dark Mode for Podium */
+@media (prefers-color-scheme: dark) {
+  .podium-card.gold {
+    background: linear-gradient(145deg, #2a2408 0%, #3d330c 100%);
+    border-color: #F6E05E;
+  }
+
+  .podium-card.silver {
+    background: linear-gradient(145deg, #1f242d 0%, #2d3748 100%);
+    border-color: #CBD5E0;
+  }
+
+  .podium-card.bronze {
+    background: linear-gradient(145deg, #2b180d 0%, #3d2314 100%);
+    border-color: #ED8936;
+  }
+
+  .podium-card.gold .podium-badge {
+    background-color: #D69E2E;
+    color: #1A202C;
+  }
+
+  .podium-card.silver .podium-badge {
+    background-color: #E2E8F0;
+    color: #1A202C;
+  }
+
+  .podium-card.bronze .podium-badge {
+    background-color: #DD6B20;
+    color: #ffffff;
+  }
+
+  .podium-team {
+    color: #ffffff;
+  }
+
+  .podium-subtitle {
+    color: #E2E8F0;
+  }
+
+  .podium-members-count {
+    color: #95C6FF;
+    background-color: rgba(149, 198, 255, 0.15);
+  }
+}

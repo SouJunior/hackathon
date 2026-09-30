@@ -3,6 +3,10 @@
 Nome do evento: Desafio Junior  
 Data: 11/set - 28/set (Entregas até 24/set)
 
+> 🏆 **Resultado Oficial da Edição 1 Divulgado!**  
+> Conheça as equipes que subiram ao pódio: **CodeImpact** (1º lugar), **Web Wizard** (2º lugar) e **Girls In Cortex** (3º lugar).  
+> 👉 Confira a lista completa e os integrantes na página exclusiva de **[Ganhadores](11_ganhadores.md)**.
+
 ---
 
 ## Ordem de Leitura
@@ -19,6 +23,7 @@ Siga esta sequência para entender o hackathon do início ao fim:
 8. **[Submissão](8_submissao.md)** — Como entregar seu projeto
 9. **[Material Extra](9_material_extra.md)** <span class="badge-novo">Novo</span> — Vídeo do desafio, UI Kit e fontes
 10. **[Inscritos](10_inscritos.md)** <span class="badge-novo">Novo</span> — Equipes e pessoas inscritas nesta edição
+11. **[Ganhadores](11_ganhadores.md)** <span class="badge-novo">Novo</span> — Equipes vencedoras da Edição 1 (CodeImpact, Web Wizard e Girls In Cortex)
 
 ---
 
