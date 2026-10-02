@@ -287,8 +287,8 @@
 | Gabriel Bruder | [LinkedIn](https://www.linkedin.com/in/gabrielbruder) |
 | Lucas Maia | [LinkedIn](https://www.linkedin.com/in/lucas-maia-5bb52b205/) |
 | Milene Gomes | [LinkedIn](https://www.linkedin.com/in/milene-azevedo-gomes/) |
-| Moises Maquina | [LinkedIn](https://www.linkedin.com/in/moisesmaquina/) |
 | Natália Pires | [LinkedIn](https://www.linkedin.com/in/nataliapiress/) |
+| Renan Queiroz Eliziario | [LinkedIn](https://www.linkedin.com/in/renaneliziario/) |
 | Thiago Guimarães | [LinkedIn](https://www.linkedin.com/in/thiagoguimaraespe/) |
 | Vania Tavares | [LinkedIn](https://www.linkedin.com/in/vania-dph/) |
 | Vanilo dos Santos Ferreira | [LinkedIn](https://www.linkedin.com/in/vanilo-ferreira/) |
