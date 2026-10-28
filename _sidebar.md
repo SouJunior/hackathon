@@ -1,12 +1,5 @@
-- [Índice](0_index.md)
-- [Inscrição](1_inscricao.md)
-- [Desafio](2_desafio_site_soujunior.tech.md)
-- [Regulamento](3_regulamento_oficial_hackathon_soujunior.md)
-- [Briefing de Produto](4_briefing_de_produto_novo_soujunior.md)
-- [Times](5_times.md)
-- [Cronograma](6_cronograma_sugerido_15_dias.md)
-- [Parceiros](7_parceiros.md)
-- [Submissão](8_submissao.md)
-- [Material Extra](9_material_extra.md) <span class="badge-novo">Novo</span>
-- [Inscritos](10_inscritos.md) <span class="badge-novo">Novo</span>
-- [Ganhadores](11_ganhadores.md) <span class="badge-novo">Novo</span>
+- **Edição Novembro/2026 — Dados**
+- [Índice](0_index.md) <span class="badge-novo">Novo</span>
+- **Arquivo**
+- [Todas as edições](1_edicoes.md)
+- [Setembro/2026 — Apoia.se](edicoes/2026-09/0_index.md)

@@ -30,7 +30,7 @@ Kit de interface pronto para usar no Figma, com componentes e estilos base da So
 
 A SouJunior é mantida pelo apoio da comunidade, e transparência no uso das doações é um dos critérios de avaliação do hackathon. Para ajudar as equipes, estamos abrindo nossos números reais de 2026:
 
-**[Baixar planilha de gastos 2026 (CSV)](gastos_2026.csv ':ignore')**
+**[Baixar planilha de gastos 2026 (CSV)](/edicoes/2026-09/gastos_2026.csv ':ignore')**
 
 O arquivo mostra os custos de infraestrutura que mantêm a SouJunior no ar — hospedagem em nuvem (AWS, Vultr, DigitalOcean) e domínio (name.com) — totalizando **R$ 1.849,59** até setembro de 2026. Usem esses dados como conteúdo real na seção de transparência da Landing Page: gráficos, tabelas ou destaques mostrando para onde vai cada real doado no [Apoia.se](https://apoia.se/soujunior).
 

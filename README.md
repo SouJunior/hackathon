@@ -1,4 +1,6 @@
-# Hackathon SouJunior 2026
+# Hackathon SouJunior
+
+> 📅 **Próxima edição: Novembro/2026 — Área de Dados** (em breve). O conteúdo abaixo é da edição de **Setembro/2026**, arquivada em [`edicoes/2026-09/`](edicoes/2026-09/0_index.md). Veja todas em [Edições](1_edicoes.md).
 
 **Redesenhando o Nosso Futuro** — Landing Page Focada no Apoia.se
 
@@ -35,17 +37,17 @@ A **SouJunior** é mantida pelo apoio da nossa comunidade, e desafiou todas as e
 
 | # | Documento | Descrição |
 |---|-----------|-----------|
-| 0 | [Índice](0_index.md) | Ponto de entrada e navegação |
-| 1 | [Inscrição](1_inscricao.md) | Como participar e se cadastrar |
-| 2 | [Desafio](2_desafio_site_soujunior.tech.md) | O que é o hackathon |
-| 3 | [Regulamento](3_regulamento_oficial_hackathon_soujunior.md) | Regras, critérios de avaliação e jurados |
-| 4 | [Briefing de Produto](4_briefing_de_produto_novo_soujunior.md) | PRD e requisitos do MVP |
-| 5 | [Times](5_times.md) | Como formar sua equipe |
-| 6 | [Cronograma](6_cronograma_sugerido_15_dias.md) | Plano de execução em sprints |
-| 7 | [Parceiros](7_parceiros.md) | Propostas de parceria |
-| 8 | [Submissão](8_submissao.md) | Como entregar seu projeto |
-| 9 | [Material Extra](9_material_extra.md) <span class="badge-novo">Novo</span> | Vídeo do desafio, UI Kit e fontes |
-| 10 | [Inscritos](10_inscritos.md) <span class="badge-novo">Novo</span> | Equipes e pessoas inscritas nesta edição |
+| 0 | [Índice](edicoes/2026-09/0_index.md) | Ponto de entrada e navegação |
+| 1 | [Inscrição](edicoes/2026-09/1_inscricao.md) | Como participar e se cadastrar |
+| 2 | [Desafio](edicoes/2026-09/2_desafio_site_soujunior.tech.md) | O que é o hackathon |
+| 3 | [Regulamento](edicoes/2026-09/3_regulamento_oficial_hackathon_soujunior.md) | Regras, critérios de avaliação e jurados |
+| 4 | [Briefing de Produto](edicoes/2026-09/4_briefing_de_produto_novo_soujunior.md) | PRD e requisitos do MVP |
+| 5 | [Times](edicoes/2026-09/5_times.md) | Como formar sua equipe |
+| 6 | [Cronograma](edicoes/2026-09/6_cronograma_sugerido_15_dias.md) | Plano de execução em sprints |
+| 7 | [Parceiros](edicoes/2026-09/7_parceiros.md) | Propostas de parceria |
+| 8 | [Submissão](edicoes/2026-09/8_submissao.md) | Como entregar seu projeto |
+| 9 | [Material Extra](edicoes/2026-09/9_material_extra.md) <span class="badge-novo">Novo</span> | Vídeo do desafio, UI Kit e fontes |
+| 10 | [Inscritos](edicoes/2026-09/10_inscritos.md) <span class="badge-novo">Novo</span> | Equipes e pessoas inscritas nesta edição |
 
 ---
 

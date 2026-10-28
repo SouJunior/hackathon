@@ -22,7 +22,9 @@ echo ""
 echo -e "${YELLOW}[1/2] Validating file naming conventions...${NC}"
 echo ""
 
-for file in *.md; do
+for path in *.md edicoes/*/*.md; do
+    file=$(basename "$path")
+
     # Skip README.md, AGENTS.md, CLAUDE.md, GEMINI.md, and _sidebar.md (exceptions)
     if [[ "$file" == "README.md" || "$file" == "AGENTS.md" || "$file" == "CLAUDE.md" || "$file" == "GEMINI.md" || "$file" == "_sidebar.md" ]]; then
         continue
@@ -60,7 +62,7 @@ echo ""
 echo -e "${YELLOW}[2/2] Validating internal links...${NC}"
 echo ""
 
-for file in *.md; do
+for file in *.md edicoes/*/*.md; do
     # Extract markdown links [text](path)
     links=$(grep -oE '\[([^\]]+)\]\(([^)]+\.md)\)' "$file" | sed 's/.*(\([^)]*\))/\1/' || true)
 
@@ -73,8 +75,15 @@ for file in *.md; do
         # URL decode the link (replace %20 with spaces, etc.)
         decoded_link=$(echo "$link" | sed 's/%20/ /g; s/%21/!/g; s/%28/(/g; s/%29/)/g')
 
+        # Resolve relative to the file's directory (absolute links from repo root)
+        if [[ "$decoded_link" == /* ]]; then
+            target=".${decoded_link}"
+        else
+            target="$(dirname "$file")/${decoded_link}"
+        fi
+
         # Check if file exists
-        if [[ ! -f "$decoded_link" ]]; then
+        if [[ ! -f "$target" ]]; then
             echo -e "${RED}ERROR: Broken link in $file -> $decoded_link${NC}"
             ERRORS=$((ERRORS + 1))
         fi

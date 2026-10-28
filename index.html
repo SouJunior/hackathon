@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Hackathon SouJunior 2026</title>
+  <title>Hackathon SouJunior</title>
 
   <!-- Docsify Core Theme -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@5/dist/themes/core.min.css">
@@ -40,10 +40,13 @@
       loadSidebar: true,
       subMaxLevel: 2,
       auto2top: true,
-      relativePath: false,
+      relativePath: true,
       homepage: '0_index.md',
       alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
+        // Índice de cada edição arquivada (Docsify reescreve links do homepage para README)
+        '/edicoes/(.*)/README': '/edicoes/$1/0_index',
+        // Links antigos (antes do arquivamento) apontam para a edição de Setembro/2026
+        '^/(1_inscricao|[2-9]_[^/]*|1[01]_[^/]*)$': '/edicoes/2026-09/$1'
       },
       search: 'auto',
       plugins: [
